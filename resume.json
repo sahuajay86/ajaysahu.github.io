@@ -53,6 +53,7 @@
         {
             "name": "Directorate of health Services, Mukhya Mantri Balshrawan yojna, Raipur, Chhattisgarh",
             "technologies": "C#.Net and ASP.Net backend SQL Server 2008",
+		 "url": "http://navjeevan.cg.nic.in/baalshravan",
             "description": "Monitoring the status of the applications which reaching from all districts of Chhattisgarh,Monitoring the cases over network hospitals of Chhattisgarh and also to others,Focusing on  the death cases, unveiling the reasons of death and making case reports,Pointing out interventions of hospital administrations and making report on the same,SMS alert to the applicant as well as to the higher authorities for monitoring sincerely ,Digitalizing the process and fastening the process where various departments involve,Using dot net technology, Development of the MIS system, SQL database, Developing a huge database where the data of whole state resides, Database must be robust and secure",
 			"role": "As Full Stack Developer"
         }
