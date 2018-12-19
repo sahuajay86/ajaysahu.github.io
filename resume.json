@@ -1,0 +1,106 @@
+{
+    "name": "Ajay Kumar Sahu",
+    "title": "Full Stack Developer",
+    "email": "sahu_ajay1986@ymail.com",
+    "phoneNumber": "+91 9907507570",
+    "objective": "To make high-quality, exciting, and fun web and mobile applications that are challenging, provide opportunities to learn new technologies, and allow me to work with other highly motivated and talented developers.",
+    "aboutme": "I am passionate about writing and testing my code, learning new things, and teaching others. I enjoy understanding problems, finding their solutions, making them simplified. I enjoy writing and contributing to open source software.  I also enjoy speaking at conferences and local user groups about JavaScript.",
+    "linkedin": "https://www.linkedin.com/in/ajay-sahu-b2330379/",
+    "social": [{
+            "link": "http://navjeevan.cg.nic.in/Sanjeevani/",
+            "name": "Directorate of health Services, Sanjeevani Kosh"
+        },
+        {
+            "link": "http://navjeevan.cg.nic.in/baalhriday/",
+            "name": "Directorate of health Services, Mukhya Mantri Balhriday Suraksha yojna"
+        },
+        {
+            "link": "http://navjeevan.cg.nic.in/baalshravan/",
+            "name": "Directorate of health Services, Mukhya Mantri Balshrawan yojna"
+        },
+        {
+            "link": "https://www.codeproject.com/Tips/1097664/Sequential-Pattern-Search-abc-cde-efg-so-on",
+            "name": "Problem solving for detecting sequencial Pattarn"
+        }
+    ],
+    "skills": [
+        "ASP.NET",
+        "C#",
+        "JavaScript",        
+        "web services",
+        "CSS3",
+        "SQL",        
+        "Debugging"       
+    ],
+    "frameworks": [
+        ".Net",
+        "jQuery"      
+    ],
+    "projects": [{
+            "name": "Directorate of health Services, Sanjeevani Kosh, Raipur , Chhattisgarh",
+            "url": "http://navjeevan.cg.nic.in/Sanjeevani",
+            "technologies": "C#.Net and ASP.Net backend SQL Server 2008",
+            "description": "Monitoring the status of the applications which reaching from all districts of Chhattisgarh,Monitoring the cases over network hospitals of Chhattisgarh and also to others,Focusing on  the death cases, unveiling the reasons of death and making case reports,Pointing out interventions of hospital administrations and making report on the same,SMS alert to the applicant as well as to the higher authorities for monitoring sincerely,Digitalizing the process and fastening the process where various departments involve,Using dot net technology, Development of the MIS system, SQL database, Developing a huge database where the data of whole state resides, Database must be robust and secure",
+"role": "As Full Stack Developer"
+        },
+        {
+            "name": "Directorate of health Services, Mukhya Mantri Balhriday Suraksha yojna, Raipur, Chhattisgarh",
+            "technologies": "C#.Net and ASP.Net backend SQL Server 2008",
+            "url": "http://navjeevan.cg.nic.in/baalhriday",
+            "description": "Monitoring the status of the applications which reaching from all districts of Chhattisgarh,Monitoring the cases over network hospitals of Chhattisgarh and also to others,Focusing on  the death cases, unveiling the reasons of death and making case reports,Pointing out interventions of hospital administrations and making report on the same,SMS alert to the applicant as well as to the higher authorities for monitoring sincerely ,Digitalizing the process and fastening the process where various departments involve,Using dot net technology, Development of the MIS system, SQL database, Developing a huge database where the data of whole state resides, Database must be robust and secure",
+            "role": "As Full Stack Developer"
+        },
+        {
+            "name": "Directorate of health Services, Mukhya Mantri Balshrawan yojna, Raipur, Chhattisgarh",
+            "technologies": "C#.Net and ASP.Net backend SQL Server 2008",
+            "description": "Monitoring the status of the applications which reaching from all districts of Chhattisgarh,Monitoring the cases over network hospitals of Chhattisgarh and also to others,Focusing on  the death cases, unveiling the reasons of death and making case reports,Pointing out interventions of hospital administrations and making report on the same,SMS alert to the applicant as well as to the higher authorities for monitoring sincerely ,Digitalizing the process and fastening the process where various departments involve,Using dot net technology, Development of the MIS system, SQL database, Developing a huge database where the data of whole state resides, Database must be robust and secure",
+			"role": "As Full Stack Developer"
+        }
+        
+    ],
+    "experience": [{
+            "company": "Directorate of Health Services",
+            "link": "http://cgdemo.nic.in/PMFBY/cghealth/cghealth17/index.html",
+            "title": "Data Analyst",
+            "startDate": "September 2013",
+            "endDate": "Present",
+            "responsibilities": "Develope/Maintainence management information system for the schemes of directorate of health services for different schemes Sanjeevani kosh, Mukhya mantri baalhriday suraksha yojna, mukhya mantri baalshrawan yojna, in Hindi language. Troubleshoot every bug reported by users",
+			 "achievements": "Beneficiaries locate hospitals by using the googlemap api on accredited Hospitals to easily navigate to nearest Hospital."
+        },
+        {
+            "company": "RKTC Pvt. Ltd.",            
+            "title": "Manager Information Technology",
+            "startDate": "Augest 2011",
+            "endDate": "February 2013",
+            "responsibilities": "At Ness technologies I worked for CDK Global which provide digital marketing website for car dealers all over the world, moslty for US. My responsibilities includes understanding the client requirement and create differnt widget that can be easily placed on any dealer website.",
+            "achievements": "Introduced Dealer Locator widget using the googlemap api on various sites to easily navigate to nearest dealer."
+        }
+    ],
+    "education": [{
+            "school": "Government Engineering College, Bilaspur, Chhattisgarh, India",
+            "startDate": "2005",
+            "endDate": "2009",
+            "program": "Bachelor of Engineering in Information Technology",
+            "achievements": "6.49 CPI(Cumulative Performance Index)"
+        },
+        {
+            "school": "Kendriya Vidyalaya",
+            "startDate": "2004",
+            "endDate": "2005",
+            "program": "12th CBSE"            
+        }
+    ],
+    "extras": [{
+            "title": "Founder and frequent speaker in CDK UI Forum. (eg. Code Quality, JEST, Acceptance Test in CodeCept, Basic Javascript"
+        },
+        {
+            "title": "ALL ROUNDER certificate from K V NTPC, 2005"
+        }
+    ],
+    "personalProjects": [{
+            "title": "Sequential Pattern Searching",
+            "description": "As R&D done to resolve the Issue I am getting at the time of Data preparation for RSBY Enrollment",
+            "link": "https://www.codeproject.com/script/Articles/MemberArticles.aspx?amid=7182075"
+        }        
+    ]
+}
